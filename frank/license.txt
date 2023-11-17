@@ -1,0 +1,11 @@
+Model Information:
+* title:	Frank
+* source:	https://sketchfab.com/3d-models/frank-98946f7b9d6d4740a281dc8287f4e34a
+* author:	dartuchiwa (https://sketchfab.com/dartuchiwa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Frank" (https://sketchfab.com/3d-models/frank-98946f7b9d6d4740a281dc8287f4e34a) by dartuchiwa (https://sketchfab.com/dartuchiwa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
